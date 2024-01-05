@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    background-color: rgb(131, 131, 131);
+}
+
+h1 {
+    text-align: center;
+    color:azure;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.tatar {
+    color: red;
+    display: block;
+    padding: 20px;
+}
+.boef {
+    color: yellow;
+    display: block; 
+    padding: 20px;
+}
+
+.sushi {
+    color: white;
+    display: block;
+    padding: 20px;
+}
